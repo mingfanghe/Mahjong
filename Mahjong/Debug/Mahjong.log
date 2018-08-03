@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  Mahjong.cpp
+d:\mahjong\mahjong\mahjong\mahjong.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(197): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(295): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(331): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(340): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(345): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(358): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(385): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(392): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(402): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(422): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(431): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(436): warning C4018: “<”: 有符号/无符号不匹配
+d:\mahjong\mahjong\mahjong\mahjong.cpp(449): warning C4018: “<”: 有符号/无符号不匹配
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(D:\Debug\Mahjong.exe) does not match the Linker's OutputFile property value (D:\mahjong\Mahjong\Debug\Mahjong.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Mahjong.vcxproj -> D:\Debug\Mahjong.exe
+  Mahjong.vcxproj -> D:\mahjong\Mahjong\Debug\Mahjong.pdb (Full PDB)

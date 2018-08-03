@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  Mahjong.cpp
+Mahjong.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(197): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(295): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(331): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(340): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(345): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(358): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(385): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(392): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(402): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(422): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(431): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(436): warning C4018: “<”: 有符号/无符号不匹配
+Mahjong.cpp(449): warning C4018: “<”: 有符号/无符号不匹配
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(D:\Release\Mahjong.exe) does not match the Linker's OutputFile property value (D:\mahjong\Mahjong\Mahjong\Release\Mahjong.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  正在生成代码
+  All 585 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Mahjong.vcxproj -> D:\Release\Mahjong.exe
+  Mahjong.vcxproj -> D:\mahjong\Mahjong\Mahjong\Release\Mahjong.pdb (Full PDB)
